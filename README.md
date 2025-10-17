@@ -13,24 +13,25 @@ O objetivo do projeto é apresentar os serviços contábeis de forma moderna e r
 
 ## 📸 Screenshots
 
-### Página Inicial
 <p>
-  <img width="800" alt="landing1" src="https://github.com/user-attachments/assets/landing1-placeholder.png" />
+  <img width="800" alt="1" src="https://github.com/user-attachments/assets/580d546f-8f16-42b4-8494-55089f269f17" />
 </p>
 
-### Benefícios da Contabilidade Digital
+
 <p>
-  <img width="800" alt="landing2" src="https://github.com/user-attachments/assets/landing2-placeholder.png" />
+  <img width="800" alt="2" src="https://github.com/user-attachments/assets/311fb44a-28b6-4967-a387-85eac556b097" />
 </p>
 
-### Serviços em Destaque
 <p>
-  <img width="800" alt="landing3" src="https://github.com/user-attachments/assets/landing3-placeholder.png" />
+  <img width="800" alt="3" src="https://github.com/user-attachments/assets/2180c3b7-5cda-4b00-bfed-03e2122e5017" />
 </p>
 
-### Formulário de Contato / WhatsApp
 <p>
-  <img width="800" alt="landing4" src="https://github.com/user-attachments/assets/landing4-placeholder.png" />
+  <img width="800" alt="4" src="https://github.com/user-attachments/assets/db54f1e1-462e-4888-adf9-93cc0df50cbb" />
+</p>
+
+<p>
+  <img width="800" alt="5" src="https://github.com/user-attachments/assets/70a08ad6-f24d-4829-8220-47c2da2feb3c" />
 </p>
 
 ---
@@ -67,7 +68,7 @@ O objetivo do projeto é apresentar os serviços contábeis de forma moderna e r
 ## 📂 Estrutura de Pastas
 
 ```bash
-landing_page_contabilidade/
+landing-contabilidade/
 ├── index.html
 ├── assets/
 │   ├── css/
@@ -78,3 +79,22 @@ landing_page_contabilidade/
 │       ├── escritorio.jpg
 │       ├── favicon.png
 │       └── ...
+```
+
+## ⚙️ Como Executar o Projeto
+
+1. Faça o download ou clone o repositório:
+
+```bash
+git clone https://github.com/tainamartins20/landing-contabilidade.git
+```
+
+2. Acesse a pasta do projeto:
+
+```bash
+cd landing-contabilidade
+```
+
+3. Abra o arquivo index.html no navegador de sua preferência.
+
+Desenvolvido por Tainá Martins.
