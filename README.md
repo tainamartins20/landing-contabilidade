@@ -7,7 +7,7 @@ O objetivo do projeto é apresentar os serviços contábeis de forma moderna e r
 
 ## 🔗 Visualizar Projeto
 
-[Visualizar Projeto](https://seu-usuario.github.io/nome-do-repositorio/)
+[Visualizar Projeto](https://tainamartins20.github.io/landing-contabilidade/)
 
 ---
 
